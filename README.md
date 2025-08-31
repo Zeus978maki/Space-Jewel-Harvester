@@ -8,7 +8,7 @@ A fun Scratch game where you control a spaceship to collect jewels in space!
 3. Use **Arrow Keys** to move the spaceship and collect jewels!
 
 4. ## 📸 Game Screenshot
-5. ![Game Screenshot](<img width="2427" height="1821" alt="Screenshot 2025-08-30 013731" src="https://github.com/user-attachments/assets/af7f3392-830a-4a55-86a0-907c9612392d" /> )
+5. ![Game Screenshot] (<img width="2427" height="1821" alt="Screenshot 2025-08-30 013731" src="https://github.com/user-attachments/assets/af7f3392-830a-4a55-86a0-907c9612392d" /> )
 
 ## 🛠️ Technologies Used.
 - Multiple Sprites.

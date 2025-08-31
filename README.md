@@ -17,4 +17,4 @@ A fun Scratch game where you control a spaceship to collect jewels in space!
 - Custom blocks.
 
 - ## 📩 Download File
-- [Click here to dowlnoad the game file (.sb3)](Untitled-2.sb3)
+- [Click here to dowlnoad the game file (.sb3)] (Untitled-2.sb3)
